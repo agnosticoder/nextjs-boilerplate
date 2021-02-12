@@ -1,4 +1,4 @@
-import styles from '../styles/modules/Hello.module.scss';
+import styles from '../../styles/modules/Hello.module.scss';
 
 const App = () => {
     let name = 'Satinder';
