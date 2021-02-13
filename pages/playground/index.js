@@ -1,9 +1,9 @@
-import Play from '../../components/Playground/Play';
+import Play from '../../Playground/index';
 
 export default function Playground() {
     return (
         <div>
-            <div className="container">
+            <div>
                 <Play />
             </div>
         </div>

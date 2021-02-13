@@ -24,3 +24,31 @@
 .nav-link{
     text-decoration: none;
 }
+
+.playground-header{
+    background-color: $third;
+    padding: 1rem;
+    margin-bottom: 2rem;
+
+    button{
+        color: #000;
+        background-color: $fifth;
+    }
+}
+
+.page-number-wrapper{
+    display: flex;
+    margin-top: 2rem;
+}
+
+.page-number{
+    outline: none;
+    border: none;
+    margin: 0 .4rem;
+    padding: .5rem;
+    border-radius: .2rem;
+    background-color: $third;
+    color: $first;
+    cursor: pointer;
+}
+
