@@ -3,7 +3,8 @@ const Play = () => {
 
     return (
         <div>
-            <h1>This is our playground Hello There</h1>
+            <h1>This is our playground</h1>
+            <h2>Hello There!</h2>
         </div>
     );
 };

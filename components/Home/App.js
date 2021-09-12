@@ -5,7 +5,7 @@ const App = () => {
 
     return (
         <div>
-            <h2 className={styles.test}>Content color has bee applied using css modules</h2>
+            <h2 className={styles.test}>Content color has bee applied using css modules but using scss</h2>
         </div>
     );
 };

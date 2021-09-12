@@ -4,7 +4,7 @@ import Link from 'next/link';
 const Layout = ({ children }) => (
     <div>
         <Head>
-            <title>Next MDX Notes App</title>
+            <title>App Title will go here</title>
         </Head>
         <div className="header">
             <div className="nav-container">
@@ -21,7 +21,7 @@ const Layout = ({ children }) => (
                     </li>
                 </ul>
             </div>
-            <h1>CSS Variable App</h1>
+            <h1>App Name</h1>
         </div>
         <main>{children}</main>
     </div>
